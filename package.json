@@ -1,6 +1,6 @@
 {
-  "name": "expressjs-bootstrap",
-  "description": "This project is a express.js bootstrap web app including Bower, Grunt, Twitter Bootstrap, jQuery and EJS.",
+  "name": "expressjs-hello-boilerplate",
+  "description": "This project is a express.js boilerplate web app including Bower, Grunt, Twitter Bootstrap, jQuery and EJS.",
   "version": "0.0.1",
   "private": true,
   "dependencies": {

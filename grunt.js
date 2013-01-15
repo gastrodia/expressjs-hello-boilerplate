@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
   grunt.initConfig({
     meta: {
-      banner: '/*! Express.js Bootstrap <%= pkg.version %> - <%= pkg.homepage %> */'
+      banner: '/*! Express.js Hello Boilerplate <%= pkg.version %> - <%= pkg.homepage %> */'
     },
     recess: {
       dist: {

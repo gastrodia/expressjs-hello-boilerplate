@@ -1,6 +1,6 @@
-# Express.js Bootstrap #
+# Express.js Hello Boilerplate #
 
-This project is a express.js bootstrap web app. It includes the following components:
+This project is a express.js boilerplate web app. It includes the following components:
 
 * Bower for package management
 * Grunt for building the assets
