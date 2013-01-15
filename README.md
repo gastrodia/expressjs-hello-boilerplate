@@ -2,12 +2,12 @@
 
 This project is a express.js boilerplate web app. It includes the following components:
 
-* Bower for package management
-* Grunt for building the assets
-* Bootstrap for the layout
-* jQuery for javascript
-* EJS as template engine with express-blocks for layout support
-* HTML5 Boilerplate for some bits and pieces
+* [Bower](http://twitter.github.com/bower/) for package management
+* [Grunt](http://gruntjs.com/) for building the assets
+* [Twitter Bootstrap](http://twitter.github.com/bootstrap/) for the layout
+* [jQuery](http://jquery.com/) for javascript
+* [EJS](https://github.com/visionmedia/ejs) as template engine with [express-blocks](https://github.com/aseemk/express-blocks) for layout support
+* [HTML5 Boilerplate](http://html5boilerplate.com/) for some bits and pieces
 
 ## Quick start
 
