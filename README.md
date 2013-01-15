@@ -11,14 +11,14 @@ This project is a express.js bootstrap web app. It includes the following compon
 
 ## Quick start
 
-* Clone the repo: `git clone git://github.com/vdrnn/expressjs-bootstrap your-project && cd your-project`.
-* Install CLI dependencies: `npm install bower grunt -g`.
-* Install project dependencies: `npm install`.
-* Install assets using Bower: `bower install`.
-* Generate static assets using Grunt: `grunt`.
-* Start the application with: `node app.js`.
+* Clone the repo: `git clone git://github.com/vdrnn/expressjs-bootstrap your-project && cd your-project`
+* Install CLI dependencies: `npm install bower grunt -g`
+* Install project dependencies: `npm install`
+* Install assets using Bower: `bower install`
+* Generate static assets using Grunt: `grunt`
+* Start the application with: `node app.js`
 * Point your browser to [http://localhost:3000](http://localhost:3000)
-* During development you can run `grunt watch` on a separate tab to auto generate the static assets. See `grunt.js` for defined tasks.
+* During development you can run `grunt watch` on a separate tab to auto generate the static assets. See `grunt.js` for defined tasks
 
 ## Authors
 
